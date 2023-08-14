@@ -1,0 +1,23 @@
+{
+  "name": "leto-main-page",
+  "version": "0.1.0",
+  "description": "LeTo main page",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LetovoLeTo/leto-main-page.git"
+  },
+  "keywords": [
+    "leto",
+    "main"
+  ],
+  "author": "Milk_Cool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LetovoLeTo/leto-main-page/issues"
+  },
+  "homepage": "https://github.com/LetovoLeTo/leto-main-page#readme"
+}
