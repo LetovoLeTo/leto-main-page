@@ -1,0 +1,8 @@
+.main {
+    position: fixed;
+    top: 20vh;
+    left: 20vw;
+    width: 60vw;
+    height: 60vh;
+    text-align: center;
+}
