@@ -3,7 +3,7 @@ const { join } = require("path");
 
 const app = express();
 
-app.use("/", express.static("html"));
+app.use("/", express.static(join(__dirname, "html")));
 app.get("/", (req, res) => {
     res.sendFile(join(__dirname, "html/index.html"));
 });
