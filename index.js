@@ -9,4 +9,4 @@ app.get("/", (req, res) => {
     res.sendFile("html/index.html");
 });
 
-app.listen(port, () => console.log("Server's alive!"));
+module.exports = app;
